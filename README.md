@@ -19,3 +19,10 @@ mkdir - criar pasta
 git status
 
 mv - move arquivo
+
+git remote add origin - linkar no Github
+
+git remote -v
+
+git push origin master - atualizar o Github
+
