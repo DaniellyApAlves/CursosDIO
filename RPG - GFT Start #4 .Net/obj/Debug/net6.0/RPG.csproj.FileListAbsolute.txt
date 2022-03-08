@@ -1,0 +1,15 @@
+C:\Users\dany-\Documents\DIO\RPG\bin\Debug\net6.0\RPG.exe
+C:\Users\dany-\Documents\DIO\RPG\bin\Debug\net6.0\RPG.deps.json
+C:\Users\dany-\Documents\DIO\RPG\bin\Debug\net6.0\RPG.runtimeconfig.json
+C:\Users\dany-\Documents\DIO\RPG\bin\Debug\net6.0\RPG.dll
+C:\Users\dany-\Documents\DIO\RPG\bin\Debug\net6.0\ref\RPG.dll
+C:\Users\dany-\Documents\DIO\RPG\bin\Debug\net6.0\RPG.pdb
+C:\Users\dany-\Documents\DIO\RPG\obj\Debug\net6.0\RPG.csproj.AssemblyReference.cache
+C:\Users\dany-\Documents\DIO\RPG\obj\Debug\net6.0\RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dany-\Documents\DIO\RPG\obj\Debug\net6.0\RPG.AssemblyInfoInputs.cache
+C:\Users\dany-\Documents\DIO\RPG\obj\Debug\net6.0\RPG.AssemblyInfo.cs
+C:\Users\dany-\Documents\DIO\RPG\obj\Debug\net6.0\RPG.csproj.CoreCompileInputs.cache
+C:\Users\dany-\Documents\DIO\RPG\obj\Debug\net6.0\RPG.dll
+C:\Users\dany-\Documents\DIO\RPG\obj\Debug\net6.0\ref\RPG.dll
+C:\Users\dany-\Documents\DIO\RPG\obj\Debug\net6.0\RPG.pdb
+C:\Users\dany-\Documents\DIO\RPG\obj\Debug\net6.0\RPG.genruntimeconfig.cache
